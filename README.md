@@ -74,12 +74,4 @@ Welcome to the Real-Time Sign Language Interpreter! This project uses machine le
 
 This project is inspired by the desire to make communication more accessible and inclusive for the deaf community.
 
-## Contact
 
-If you have any questions or feedback, feel free to reach out!
-
-- **Email:** [laplace.sallis@gmail.com](mailto:laplace.sallis@gmail.com)
-- **LinkedIn:** [LaPlace Sallis IV](https://www.linkedin.com/in/laplace-sallis-iv-bbbb602a8/)
-- **GitHub:** [laplaces42](https://github.com/laplaces42)
-
-You can also open an issue on this repository if you have any questions or need support.
