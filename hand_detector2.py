@@ -118,3 +118,4 @@ class handDetector():
                     all_landmarks.append((classification.label, landmark_list))
         
         return all_landmarks
+    
