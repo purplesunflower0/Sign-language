@@ -12,8 +12,8 @@ flatbuffers==24.3.25
 fonttools==4.53.1
 gTTS==2.5.2
 idna==3.7
-jax==0.4.30
-jaxlib==0.4.30
+jax==0.4.35
+jaxlib==0.4.35
 joblib==1.4.2
 kiwisolver==1.4.5
 matplotlib==3.9.1
